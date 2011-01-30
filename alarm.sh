@@ -1,0 +1,46 @@
+#!/bin/bash
+
+# A simple alarm clock script
+
+# set wakeup time here
+target="07:30"
+
+# set sleep interval here
+snooze=`dc -e "5 60 *p"`
+
+# convert wakeup time to seconds
+target_h=`echo $target | awk -F: '{print $1}'`
+target_m=`echo $target | awk -F: '{print $2}'`
+target_s_t=`dc -e "$target_h 60 60 ** $target_m 60 *+p"`
+
+# get current time and convert to seconds
+clock=`date | awk '{print $4}'`
+clock_h=`echo $clock | awk -F: '{print $1}'`
+clock_m=`echo $clock | awk -F: '{print $2}'`
+clock_s=`echo $clock | awk -F: '{print $3}'`
+clock_s_t=`dc -e "$clock_h 60 60 ** $clock_m 60 * $clock_s ++p"`
+
+# calculate difference in times, add number of sec. in day and mod by same
+until=`dc -e "24 60 60 **d $target_s_t $clock_s_t -+r%p"`
+
+echo "The alarm will sound at $target."
+
+sleep $until
+
+# snooze loop
+while :
+do
+  ./buzzer.sh &
+  bpid=$!
+  disown $bpid                          # eliminates termination message
+  read -n1 input
+  kill $bpid
+  if [ "$input" == "Q" ]
+  then
+    echo -e "\nGood morning!"
+    exit
+  else
+    echo -e "\nSnoozing for $slp seconds..."
+    sleep $snooze
+  fi
+done
