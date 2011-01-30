@@ -2,7 +2,8 @@ The script alarm.sh is a simple alarm clock with snooze function. The wakeup
 time and snooze interval are set as values in the file.
 
 The script buzzer.sh is called by alarm.sh to make the actual alarm sound. It
-uses the afplay utility, which is specific to Mac OS X 10.5 and later.
+uses the afplay utility, which is specific to Mac OS X 10.5 and later. Anything
+that makes noise will do, though!
 
 These scripts are unlicensed. That is, they are in the public domain and free
 to use in any capacity for any purpose.
