@@ -2,11 +2,11 @@
 
 # A simple alarm clock script
 
-# set wakeup time here
-target="07:30"
+echo "What time should the alarm go off? (HH:MM)"
+read target
 
-# set sleep interval here
-snooze=`dc -e "5 60 *p"`
+# sleep interval is 15 minutes
+snooze=`dc -e "15 60 *p"`
 
 # convert wakeup time to seconds
 target_h=`echo $target | awk -F: '{print $1}'`
@@ -23,7 +23,7 @@ clock_s_t=`dc -e "$clock_h 60 60 ** $clock_m 60 * $clock_s ++p"`
 # calculate difference in times, add number of sec. in day and mod by same
 until=`dc -e "24 60 60 **d $target_s_t $clock_s_t -+r%p"`
 
-echo "The alarm will sound at $target."
+echo "The alarm will go off at $target."
 
 sleep $until
 
