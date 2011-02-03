@@ -25,7 +25,7 @@ sec_until=`dc -e "24 60 60 **d $target_s_t $clock_s_t -+r%p"`
 
 echo "The alarm will go off at $target."
 
-sleep $until
+sleep $sec_until
 
 # snooze loop
 while :
