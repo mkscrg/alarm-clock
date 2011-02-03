@@ -21,7 +21,7 @@ clock_s=`echo $clock | awk -F: '{print $3}'`
 clock_s_t=`dc -e "$clock_h 60 60 ** $clock_m 60 * $clock_s ++p"`
 
 # calculate difference in times, add number of sec. in day and mod by same
-until=`dc -e "24 60 60 **d $target_s_t $clock_s_t -+r%p"`
+sec_until=`dc -e "24 60 60 **d $target_s_t $clock_s_t -+r%p"`
 
 echo "The alarm will go off at $target."
 
