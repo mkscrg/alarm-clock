@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>10.1.2</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>429F021E41E009F4</string>
+	<key>Tracks</key>
+	<dict>
+		<key>691</key>
+		<dict>
+			<key>Track ID</key><integer>691</integer>
+			<key>Name</key><string>Overture</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3494958</integer>
+			<key>Total Time</key><integer>148062</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:18:42Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481251</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:47:31Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A8C3054D472C6B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/01%20Overture.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>693</key>
+		<dict>
+			<key>Track ID</key><integer>693</integer>
+			<key>Name</key><string>The Grid</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2361576</integer>
+			<key>Total Time</key><integer>96783</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:38Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481348</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:49:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Grid</string>
+			<key>Persistent ID</key><string>4FE07E2EA274F334</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/02%20The%20Grid.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>695</key>
+		<dict>
+			<key>Track ID</key><integer>695</integer>
+			<key>Name</key><string>The Son of Flynn</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2361191</integer>
+			<key>Total Time</key><integer>95268</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:44Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481443</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:50:43Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Son of Flynn</string>
+			<key>Persistent ID</key><string>FA092E92A12219CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/03%20The%20Son%20of%20Flynn.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>697</key>
+		<dict>
+			<key>Track ID</key><integer>697</integer>
+			<key>Name</key><string>Recognizer</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3899590</integer>
+			<key>Total Time</key><integer>157753</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:46Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481601</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:53:21Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>21A379D702FF3B8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/04%20Recognizer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>699</key>
+		<dict>
+			<key>Track ID</key><integer>699</integer>
+			<key>Name</key><string>Armory</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2907758</integer>
+			<key>Total Time</key><integer>123036</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:36Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481724</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:55:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2B9A2F2E44299201</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/05%20Armory.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>701</key>
+		<dict>
+			<key>Track ID</key><integer>701</integer>
+			<key>Name</key><string>Arena</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2402225</integer>
+			<key>Total Time</key><integer>93257</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:18Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481817</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:56:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56D6B55ACF2AA40F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/06%20Arena.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>703</key>
+		<dict>
+			<key>Track ID</key><integer>703</integer>
+			<key>Name</key><string>Rinzler</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3406866</integer>
+			<key>Total Time</key><integer>137691</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:44Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379481955</integer>
+			<key>Play Date UTC</key><date>2011-02-02T13:59:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>20530725ACB85E60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/07%20Rinzler.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>705</key>
+		<dict>
+			<key>Track ID</key><integer>705</integer>
+			<key>Name</key><string>The Game Has Changed</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5769022</integer>
+			<key>Total Time</key><integer>205531</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:46Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379482160</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:02:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Game Has Changed</string>
+			<key>Persistent ID</key><string>8C22834DC4CA8A3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/08%20The%20Game%20Has%20Changed.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>707</key>
+		<dict>
+			<key>Track ID</key><integer>707</integer>
+			<key>Name</key><string>Outlands</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4159077</integer>
+			<key>Total Time</key><integer>162533</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:17:32Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379482323</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:05:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>24AE257C886F9F1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/09%20Outlands.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>709</key>
+		<dict>
+			<key>Track ID</key><integer>709</integer>
+			<key>Name</key><string>Adagio For TRON</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6070657</integer>
+			<key>Total Time</key><integer>251115</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:44Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379482574</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:09:34Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>798A1993FA730649</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/10%20Adagio%20For%20TRON.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>711</key>
+		<dict>
+			<key>Track ID</key><integer>711</integer>
+			<key>Name</key><string>Nocturne</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2376918</integer>
+			<key>Total Time</key><integer>101720</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:34Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379482676</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:11:16Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>990C2C4BAAF79B4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/11%20Nocturne.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>713</key>
+		<dict>
+			<key>Track ID</key><integer>713</integer>
+			<key>Name</key><string>End of Line</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4525547</integer>
+			<key>Total Time</key><integer>156525</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:40Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379483346</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:22:26Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BBA7BCFAA9B24EA1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/12%20End%20of%20Line.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>715</key>
+		<dict>
+			<key>Track ID</key><integer>715</integer>
+			<key>Name</key><string>Derezzed</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3078402</integer>
+			<key>Total Time</key><integer>104150</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:20Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3379483450</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:24:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CD5D5D607B74D51D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/13%20Derezzed.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>717</key>
+		<dict>
+			<key>Track ID</key><integer>717</integer>
+			<key>Name</key><string>Fall</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2254036</integer>
+			<key>Total Time</key><integer>82651</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:24Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3379483533</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:25:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B32332313C6D551E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/14%20Fall.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>719</key>
+		<dict>
+			<key>Track ID</key><integer>719</integer>
+			<key>Name</key><string>Solar Sailer</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3860717</integer>
+			<key>Total Time</key><integer>162168</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:44Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>188</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3379483695</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:28:15Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A43DAAD4E7E81941</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/15%20Solar%20Sailer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>721</key>
+		<dict>
+			<key>Track ID</key><integer>721</integer>
+			<key>Name</key><string>Rectifier</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3339333</integer>
+			<key>Total Time</key><integer>134086</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:18:38Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>197</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3379483829</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:30:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B62D79C5D46CA216</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/16%20Rectifier.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>723</key>
+		<dict>
+			<key>Track ID</key><integer>723</integer>
+			<key>Name</key><string>Disc Wars</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6114018</integer>
+			<key>Total Time</key><integer>251480</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:34Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379484080</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:34:40Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>41B8E72DE367615A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/17%20Disc%20Wars.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>725</key>
+		<dict>
+			<key>Track ID</key><integer>725</integer>
+			<key>Name</key><string>C.L.U.</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7257878</integer>
+			<key>Total Time</key><integer>279353</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:06Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379484360</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:39:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E42809C7AEED0DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/18%20C.L.U..mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>727</key>
+		<dict>
+			<key>Track ID</key><integer>727</integer>
+			<key>Name</key><string>Arrival</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2927388</integer>
+			<key>Total Time</key><integer>120528</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:18:50Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379484480</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:41:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>501EC39E2E48101D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/19%20Arrival.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>729</key>
+		<dict>
+			<key>Track ID</key><integer>729</integer>
+			<key>Name</key><string>Flynn Lives</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4985430</integer>
+			<key>Total Time</key><integer>202187</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:46Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379484682</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:44:42Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0729AA81C540C94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/20%20Flynn%20Lives.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>731</key>
+		<dict>
+			<key>Track ID</key><integer>731</integer>
+			<key>Name</key><string>TRON Legacy (End Titles)</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5166794</integer>
+			<key>Total Time</key><integer>197877</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:18:50Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>207</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379484880</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:48:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>078EE5E94C4E958D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/21%20TRON%20Legacy%20(End%20Titles).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>733</key>
+		<dict>
+			<key>Track ID</key><integer>733</integer>
+			<key>Name</key><string>Finale</string>
+			<key>Artist</key><string>Daft Punk</string>
+			<key>Album</key><string>Tron Legacy (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6407257</integer>
+			<key>Total Time</key><integer>262817</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2010-11-25T03:19:30Z</date>
+			<key>Date Added</key><date>2010-12-14T16:55:20Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3379485143</integer>
+			<key>Play Date UTC</key><date>2011-02-02T14:52:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36BCE3A6AF594A0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/mcraig/Music/iTunes/iTunes%20Media/Music/Daft%20Punk/Tron%20Legacy%20(Original%20Motion%20Picture%20Soundtrack)/22%20Finale.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Wakeup</string>
+			<key>Playlist ID</key><integer>1850</integer>
+			<key>Playlist Persistent ID</key><string>A9251405394E2F22</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>691</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>693</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>695</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>697</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>699</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>701</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>703</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>707</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>709</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>713</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>715</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>717</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>719</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>721</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>723</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>725</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>727</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>729</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>731</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>733</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

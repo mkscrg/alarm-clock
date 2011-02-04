@@ -6,7 +6,7 @@ echo "What time should the alarm go off? (HH:MM)"
 read target
 
 # sleep interval is 15 minutes
-snooze=`dc -e "15 60 *p"`
+snooze=`dc -e "15 p"`
 
 # convert wakeup time to seconds
 target_h=`echo $target | awk -F: '{print $1}'`
@@ -30,17 +30,23 @@ sleep $sec_until
 # snooze loop
 while :
 do
+  echo -e "\nWake up!"
   ./buzzer.sh &
   bpid=$!
   disown $bpid                          # eliminates termination message
   read -n1 input
+  for bsub in $(ps -o pid,ppid -ax | \
+               awk "{ if (\$2 == $bpid) { print \$1 }}")
+  do
+    kill $bsub                          # kill children
+  done
   kill $bpid
   if [ "$input" == "Q" ]
   then
     echo -e "\nGood morning!"
     exit
   else
-    echo -e "\nSnoozing for $slp seconds..."
+    echo -e "\nSnoozing for $snooze seconds..."
     sleep $snooze
   fi
 done
