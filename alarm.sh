@@ -31,12 +31,12 @@ sleep $sec_until
 while :
 do
   echo -e "\nWake up!"
-  ./buzzer.sh &
+  ./wakeup_playlist.sh &
   bpid=$!
   disown $bpid                          # eliminates termination message
   read -n1 input
   for bsub in $(ps -o pid,ppid -ax | \
-               awk "{ if (\$2 == $bpid) { print \$1 }}")
+                awk "{ if (\$2 == $bpid) { print \$1 }}")
   do
     kill $bsub                          # kill children
   done
