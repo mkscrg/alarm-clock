@@ -6,7 +6,7 @@ echo "What time should the alarm go off? (HH:MM)"
 read target
 
 # sleep interval is 15 minutes
-snooze=`dc -e "15 p"`
+snooze=`dc -e "15 60 *p"`
 
 # convert wakeup time to seconds
 target_h=`echo $target | awk -F: '{print $1}'`
@@ -31,7 +31,7 @@ sleep $sec_until
 while :
 do
   echo -e "\nWake up!"
-  ./wakeup_playlist.sh &
+  ./playlist_buzzer.sh &
   bpid=$!
   disown $bpid                          # eliminates termination message
   read -n1 input
